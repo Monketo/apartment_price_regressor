@@ -102,3 +102,4 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+parser/cars_parsing/cars.jl
